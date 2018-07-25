@@ -28,7 +28,7 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
-  STUDENT_NAMES.first_second_third
+  STUDENT_NAMES.first_second_and_third_students
 end
 
 puts STUDENT_NAMES.size
